@@ -21,3 +21,6 @@
 <a href="https://fb.com/aphile khumalo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aphile khumalo" height="30" width="40" /></a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aphile-developer&show_icons=true&locale=en&layout=compact" alt="aphile-developer" /></p>
+<p align="center">
+  <a href="https://github.com/aphile-developer"><img src="https://github-readme-stats.vercel.app/api?username=aphile-developer&hide_border=true&show_icons=true" alt="aphile's github stats"></a>
+</p>
